@@ -1,0 +1,7 @@
+Student Memo
+
+Name: Anusha
+USN: 12345
+Course: Bioinformatics
+Semester: 6
+Remarks: Assignment completed successfully
