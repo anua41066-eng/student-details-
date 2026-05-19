@@ -1,0 +1,5 @@
+subject marks 
+physics  80
+chemistry 78
+maths     90
+biology   80
